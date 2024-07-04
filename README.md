@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carlos00Monteiro
 - 👀 I’m interested in improving my knowledge
-- 🌱 I’m currently learning python
+- 🌱 I’m currently trying to get a chance in QA.
 - ⚡ Fun fact: Every person has a unique set of fingerprints, even identical twins. No two individuals have been found to have the same fingerprints in recorded history.
 
 <!---
